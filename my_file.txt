@@ -1,0 +1,6 @@
+Line 1: Hello, this is the first line.
+Line 2: The number is 12345.
+Line 3: Python file handling example.
+Line 4: Appending new text to the file.
+Line 5: Another appended line with 67890.
+Line 6: File handling in Python is fun!
